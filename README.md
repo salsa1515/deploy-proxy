@@ -2,7 +2,7 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
+Feel free donate to author EVM address
 
 EVM :
 
@@ -17,11 +17,11 @@ Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-deploy-proxy.git
+git clone https://github.com/salsa1515/deploy-proxy.git
 ```
 
 ```bash
-cd swisstronik-deploy-proxy
+cd deploy-proxy
 ```
 
 ### 2. Install Dependency
